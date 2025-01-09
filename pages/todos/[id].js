@@ -20,7 +20,7 @@ export default function TodoDetay({todoProps}) {
 
                     </CardContent>
                     <CardActions>
-                        <Link href="/afg-todo-app-next">
+                        <Link href="/afg-todo-app-w-next">
                             <Button size="small">Geri Dön</Button>
                         </Link>
                     </CardActions>
